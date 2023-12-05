@@ -1,0 +1,41 @@
+<html>
+    <title>
+       Question3
+       </title>
+     <link rel="stylesheet" href="style.css">
+    <head>
+    </head>
+    <body>
+        <marquee behavior="alternate" bgcolor="white"><h1>Personal Details</h></marquee>
+            <div class="l">
+        <h2 > Konicaa </h2>
+        <i><h2>Course : B.Sc(H) Computer Science</h2>
+        <h2>Hobbies : Playing Badminton , listening music , Meditation</h2>
+        <h2>College : Keshav Mahavidyalaya</h2>
+    </div>
+    </body>
+</html>
+================
+body { 
+    background-color: rgb(170, 66, 196);
+ }
+ h1 {
+     color: rgb(13, 13, 17);font-size: 50px;   
+ }
+ .l{
+ width: 400px;
+ margin: auto;
+ margin: 20 0 0 450px;
+ padding: 80px;
+ background: #1bf7e8;
+ border-radius: 15px ;}
+
+ h2{
+ background-color:light-yellow;
+ color:white;
+ text-align:center-right;
+  width:500px;}
+     
+ .img {
+     padding-left:100px;
+   }
